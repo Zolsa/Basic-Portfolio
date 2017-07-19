@@ -108,7 +108,7 @@ input {
 	margin-right: 70px;
 }
 
-a.pages:hover {
+.pages:hover {
 	color:#4aaaa5;
 }
 
@@ -151,7 +151,7 @@ a.pages:hover {
 }
 
  .icons:hover {
-     background: #4aaaa5;
+     background: #333333;
 }
 
 .galleryleft {
